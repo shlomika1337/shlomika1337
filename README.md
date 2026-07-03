@@ -5,9 +5,7 @@ Computer and electronics engineer finishing an M.Sc. at Ben-Gurion University (a
 - Reverse engineering, binary exploitation, and malware analysis (Ghidra, IDA, x64dbg)
 - Bare-metal firmware on ARM microcontrollers, PCB design, and hardware bring-up
 - RF circuit design, antennas, and microwave measurement
-- 1st place, Iron Codes 2024 CTF (Tel Aviv University CyberWeek). Formerly top 100 in Israel on HackTheBox, currently top 1000 worldwide.
-
-Arch Linux. Reach me at shlomika99@gmail.com.
+- 1st place, Iron Codes 2024 CTF (Tel Aviv University CyberWeek). Top 1000 worldwide on HackTheBox.
 
 ### Selected work
 
