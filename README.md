@@ -7,8 +7,6 @@ Computer and electronics engineer finishing an M.Sc. at Ben-Gurion University (a
 - RF circuit design, antennas, and microwave measurement.
 - 1st place, Iron Codes 2024 CTF (Tel Aviv University CyberWeek). Top 1000 globally on HackTheBox.
 
-Arch Linux. Reach me at shlomika99@gmail.com.
-
 ### Selected work
 
 **[CTF Writeups](https://github.com/shlomika1337/ctf-writeups)** — writeups and solve scripts from national CTFs. Highlights: reverse engineering a custom SOCKS-like protocol from packet captures and building a working exploit past a CRC check (Check Point CSA 2020); a timing side-channel attack, X.509 certificate forging, and a padding oracle attack (Mossad 2019).
