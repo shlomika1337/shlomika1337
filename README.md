@@ -9,11 +9,7 @@ Computer and electronics engineer finishing an M.Sc. at Ben-Gurion University (a
 
 ### Selected work
 
-**Check Point Security Academy 2020 CTF writeup** <!-- add repo link once published -->
-Reverse engineered a custom network protocol from packet captures, recovered the XOR key of a challenge-response scheme, and built a working exploit against the target. Also covers MITM via ARP spoofing with RC4 key recovery, steganography, and forensics.
-
-**D-Link DSL-224 hardware security research** <!-- add repo link once published; mark in progress -->
-Firmware extraction and vulnerability research on a Realtek-based DSL router: SquashFS rootfs extraction, MIPS binary reverse engineering of the web stack, and hardware-level access. In progress.
+**CTF writeups** <!-- add repo link once published -->
 
 **Donation Data Automation Pipeline** <!-- add repo link -->
 A multi-stage Python pipeline written by hand in 2022 that replaced a full-time manual data-processing role at BGU: cleaning and validating messy monthly financial spreadsheets, resolving donor IDs, and driving records into a Salesforce CRM.
