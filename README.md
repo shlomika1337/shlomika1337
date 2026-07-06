@@ -17,4 +17,4 @@ Computer and electronics engineer finishing an M.Sc. at Ben-Gurion University (a
 
 **[CEE-Masters](https://github.com/shlomika1337/CEE-Masters)** — graduate work in semiconductor devices, nanophotonics, and metasurfaces, including an independent reproduction and critique of a Science paper on dielectric metasurfaces with my own MATLAB simulations.
 
-**[Ultimate Lifeform SWEP](https://github.com/shlomika1337/ultimate-lifeform_gmod-addon)** — a Garry's Mod Lua addon I shipped in 2022; reached ~8,900 subscribers on the Steam Workshop before being delisted over third-party audio assets (this repo is code only).
+**[Ultimate Lifeform SWEP](https://github.com/shlomika1337/ultimate-lifeform_gmod-addon)** — a Garry's Mod Lua addon I shipped in 2022; reached ~8,900 subscribers on the Steam Workshop (this repo is code only).
