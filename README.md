@@ -5,7 +5,7 @@ Computer and electronics engineer finishing an M.Sc. at Ben-Gurion University (a
 - Reverse engineering, binary exploitation, and malware analysis (Ghidra, IDA, x64dbg).
 - Bare-metal firmware on ARM microcontrollers, PCB design, and hardware bring-up.
 - RF circuit design, antennas, and microwave measurement.
-- 1st place, Iron Codes 2024 CTF (Tel Aviv University CyberWeek). Top 1000 globally on HackTheBox.
+- 1st place, Iron Codes 2024 CTF (Tel Aviv University CyberWeek). Top 1000 globally on HackTheBox (https://profile.hackthebox.com/profile/019e3cb8-674c-7298-be1f-58a22dfe8035).
 
 ### Selected work
 
