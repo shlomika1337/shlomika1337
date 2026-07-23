@@ -7,8 +7,6 @@ Computer and electronics engineer finishing an M.Sc. at Ben-Gurion University (a
 - RF circuit design, antennas, and microwave measurement
 - 1st place, Iron Codes 2024 CTF (Tel Aviv University CyberWeek). [HTB CLAIM] on HackTheBox.
 
-Arch Linux. Reach me at shlomika99@gmail.com.
-
 ### Selected work
 
 **[D-Link DSL-224 hardware security research](https://github.com/shlomika1337/DSL-224)** — *in progress*
