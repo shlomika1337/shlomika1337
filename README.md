@@ -7,6 +7,8 @@ Computer and electronics engineer finishing an M.Sc. at Ben-Gurion University (a
 - RF circuit design, antennas, and microwave measurement
 - 1st place, Iron Codes 2024 CTF (Tel Aviv University CyberWeek). Top 1000 worldwide (as of July 2026) on HackTheBox.
 
+[LinkedIn](https://www.linkedin.com/in/shlomi-k-avidan/)
+
 ### Selected work
 
 **[D-Link DSL-224 hardware security research](https://github.com/shlomika1337/DSL-224)** — *in progress*
