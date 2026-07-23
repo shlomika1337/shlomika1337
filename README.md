@@ -11,7 +11,7 @@ Computer and electronics engineer finishing an M.Sc. at Ben-Gurion University (a
 
 ### Selected work
 
-**[D-Link DSL-224 hardware security research](https://github.com/shlomika1337/DSL-224)** — *in progress*
+**[D-Link DSL-224 hardware security research](https://github.com/shlomika1337/dsl-224-research)** — *in progress*
 Firmware extraction and vulnerability research on a Realtek RTL8685 DSL router. UART root shell, bit-exact 8 MB SPI flash dump (md5-verified end to end), SquashFS rootfs carving, and static analysis of the MIPS web stack in Ghidra. Hardware-level access built from a bare ESP8266.
 
 **[Blind HID Injector — ADB enablement on a dead-display Android](https://github.com/shlomika1337/Pixel-6_Recovery_HID_Injector)**
